@@ -1,0 +1,18 @@
+{
+    "obstacles": [
+        {
+            "type": "ball",
+            "position": [ 100, 200, 0 ],
+            "scale": [ 2, 4, 10 ]
+        }
+    ],
+    "wind": {
+        "direction": [ 0, 1, 0 ],
+        "strength": 500,
+        "particle_effect": "Wind_Mist"
+    },
+    "danger_zone": {
+        "center": [ 920, 1630, 0 ],
+        "radius": 100
+    }
+}
